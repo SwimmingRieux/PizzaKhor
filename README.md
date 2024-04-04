@@ -1,0 +1,1 @@
+A simple python terminal based game, powered by the curses library, where players guide a character through a dynamic landscape. Navigate through challenges, striving to amass points by devouring goals while evading adversaries intent on devouring you.
